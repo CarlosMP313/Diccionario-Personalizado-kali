@@ -38,6 +38,7 @@ La opción que nos interesa es `-i` para crear un diccionario personalizado. Eje
 
 ```bash
 python3 cupp.py -i
+```
 Responde todas las preguntas con la mayor cantidad de información posible sobre la víctima.
 
 ## 2.3. Configuraciones Adicionales
@@ -57,6 +58,6 @@ Responde todas las preguntas con la mayor cantidad de información posible sobre
 - Una vez que el proceso termine, tu diccionario personalizado estará listo para usarse.
 
 ¡Listo! Ahora tienes un diccionario de contraseñas personalizado creado con CUpp.
-```
+---
 
 > **Descargo de responsabilidad:** No soy responsable por el uso indebido de la información proporcionada en este proceso. El uso de CUpp debe realizarse con fines éticos y legales, respetando la privacidad y los derechos de los demás. Asegúrate de tener el consentimiento adecuado antes de recopilar y utilizar cualquier información personal.
